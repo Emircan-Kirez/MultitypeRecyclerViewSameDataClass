@@ -1,0 +1,1 @@
+- Same data class but two different viewHolders
